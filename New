@@ -1,0 +1,4 @@
+git clone november-ai-git-bundle.bundle november-ai
+cd november-ai
+git remote set-url origin https://github.com/pallantisravanpro/november-ai.git
+git push -u origin main
